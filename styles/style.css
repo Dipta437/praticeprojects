@@ -2,3 +2,9 @@ label>input{
     display: block;
     margin-bottom: 10px;
 }
+textarea{
+    display: block;
+}
+.submit{
+    margin-top: 20px;
+}
